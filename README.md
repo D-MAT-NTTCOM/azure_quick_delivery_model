@@ -1,0 +1,2 @@
+# azure_quick_delivery_model
+Azure短納期モデル関連（検証PCから2g3t-msに入れなかったので一時置き場）
